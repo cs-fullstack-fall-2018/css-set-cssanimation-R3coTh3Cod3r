@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://78.media.tumblr.com/ca256bbe5aa7a2b31df60c19206b024e/tumblr_o3ndr6LfM91uuj1vto1_500.gif");
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 3;
+    grid-row-end: 3;
+    grid-column-gap: 22px;
+    grid-row-gap: 22px;
+}
